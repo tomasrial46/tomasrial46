@@ -1,5 +1,5 @@
 ## Hi there 👋
-![Ejemplo de animación]([[![image](https://github.com/user-attachments/assets/6e3f3c50-f261-424c-9c10-efeba442fd9e](https://media1.tenor.com/m/GfSX-u7VGM4AAAAC/coding.gif))
+![Ejemplo de animación]([[![image](https://github.com/user-attachments/assets/6e3f3c50-f261-424c-9c10-efeba442fd9e](https://media1.tenor.com/m/GfSX-u7VGM4AAAAC/coding.gif)
 ))
 
 <!--
