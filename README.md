@@ -1,5 +1,5 @@
 ## Hi there 👋
-![Ejemplo de animación](https://media.giphy.com/media/3o6nV9yHlkJxG0l5I8/giphy.gif)
+![Ejemplo de animación]([https://media.giphy.com/media/3o6nV9yHlkJxG0l5I8/giphy.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fsearch%2Fprogrammer-gifs&psig=AOvVaw0vP-e_V2rZF1Adf_6jbUJh&ust=1741682077714000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCOCEi76N_4sDFQAAAAAdAAAAABAq))
 
 <!--
 **tomasrial46/tomasrial46** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
