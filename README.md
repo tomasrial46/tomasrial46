@@ -1,5 +1,6 @@
 ## Hi there 👋
-![IA en acción](https://media.giphy.com/media/l4pT0D9en5ds8O2Co/giphy.gif)
+![image](https://github.com/user-attachments/assets/7e4a5783-6edd-4c8a-9b7d-773961deea54)
+
 
 
 <!--
