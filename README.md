@@ -9,10 +9,10 @@ Soy estudiante de **Inteligencia Artificial** en la **Universidad de Vigo** (Uvi
 - **Universidad**: Universidad de Vigo (Uvigo), Facultad de Ourense ESEI
 - **Lenguajes y Herramientas que manejo**:
   - **Lenguajes**: Python, R, Java, Prolog
-  - 
+    
 ## 📫 ¿Cómo contactarme?
 - 📧 Correo: tomasrialacademica@gmail.com
-- 💼 [LinkedIn]([https://www.linkedin.com/in/tu-perfil/](https://www.linkedin.com/in/tom%C3%A1s-rial-costa-1170a82a3/))
+- 💼 [LinkedIn](https://www.linkedin.com/in/tom%C3%A1s-rial-costa-1170a82a3/)
 
 
 <!--
