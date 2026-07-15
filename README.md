@@ -2,7 +2,7 @@
 ![image](https://media1.tenor.com/m/GfSX-u7VGM4AAAAC/coding.gif)
 
 ## ¡Hola, soy [Tomás]! 👋
-Soy estudiante de **Inteligencia Artificial** en la **Universidad de Vigo** (Uvigo), en la **Facultad de Ourense ESEI**. Estoy apasionado por el desarrollo de soluciones tecnológicas inteligentes y la resolución de problemas complejos utilizando IA.
+Soy Ingeniero de **Inteligencia Artificial** por la **Universidad de Vigo** (Uvigo), en la **Facultad de Ourense ESEI**. Estoy apasionado por el desarrollo de soluciones tecnológicas inteligentes y la resolución de problemas complejos utilizando IA.
 
 ## 📚 Mi Formación:
 - **Carrera**: Estudiante de **Inteligencia Artificial**
